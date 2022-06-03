@@ -6,6 +6,8 @@ This repository is intended to share some of my recent findings in the understan
 * 1D PDE
 * 2D PDE
 
+I highly sugged that you run the notebook in Google Colab, in order to take advantage of the GPU capabilities.
+
 Special tahnks to Juan Diego Toscano (@jdtoscano94) for sharing some of the code that I used to created this notebooks. 
 
 You can find his work here: https://github.com/jdtoscano94/Learning-PINNs-in-Pytorch-Physics-Informed-Machine-Learning
