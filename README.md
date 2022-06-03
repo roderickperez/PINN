@@ -3,8 +3,8 @@
 This repository is intended to share some of my recent findings in the understanding, understanding and applycation of PINN's. The framework used to develop the code was PyTorch.
 * Approximate Function
 * Simple ODE
-* 1D PDE
-* 2D PDE
+* 1D PDE: 1D Poisson (Direchlet)
+* 2D PDE: Diffusion Equation
 
 I highly sugged that you run the notebook in Google Colab, in order to take advantage of the GPU capabilities.
 
